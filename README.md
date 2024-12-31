@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EimanDaoud
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning AWS
 
 <!---
 - 💞️ I’m looking to collaborate on ...
