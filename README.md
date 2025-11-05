@@ -1,7 +1,5 @@
 # Hi there, I'm **Eiman Daoud** 👋
 
-*When data misbehaves, I make it confess.*
-
 ---
 
 ## 🧠 About Me
