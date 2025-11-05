@@ -21,12 +21,9 @@ I’m passionate about uncovering patterns, simplifying complex data, and creati
 
 ---
 
-## 😄 Fun Fact
+## 😄 Fun Facts
 
-I once spent hours debugging a dataset… only to realize the issue was a single invisible space.
-Since then, I’ve learned two things:
-
-1. Never underestimate whitespace.
+1. Cleaning a phone numbers column is the true test of patience 📞
 2. Coffee is the ultimate debugging tool ☕.
 
 ---
