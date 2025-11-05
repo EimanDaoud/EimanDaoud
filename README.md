@@ -20,14 +20,6 @@ I’m passionate about uncovering patterns, simplifying complex data, and creati
 * 📊 **Dashboard Design & Reporting** – visual storytelling using Power BI & Excel.
 * 🗣️ **Data Storytelling** – helping stakeholders see the *why* behind the numbers.
 
----
-
-## 🚀 Currently Working On
-
-* Enhancing Power BI data models for better DAX performance.
-* Refining data-cleaning pipelines using Python.
-* Designing portfolio-ready dashboards that highlight real business insights.
-* Exploring creative ways to visualize time-based data (yes, even with weeks starting on Saturday 😄).
 
 ---
 
@@ -44,7 +36,7 @@ Since then, I’ve learned two things:
 ## 🛠️ Tech Stack
 
 **Languages & Tools:**
-`Python` · `Pandas` · `Power BI` · `Excel` · `SQL` · `DAX` · `NumPy` · `Matplotlib` · `Git`
+`Python` ·  `Power BI` · `Excel` · `SQL` · `DAX` ·
 
 ---
 
